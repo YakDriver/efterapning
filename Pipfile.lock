@@ -44,11 +44,11 @@
         },
         "pygithub": {
             "hashes": [
-                "sha256:ae21a1cfceba4742810e9cbedbfc8737717208796f76b13665826b52f278a77b",
-                "sha256:f8bb9b03bfa929d74d01b75779160c3a59eab91a9e65cb9f8e62868484be4839"
+                "sha256:8375a058ec651cc0774244a3bc7395cf93617298735934cdd59e5bcd9a1df96e",
+                "sha256:d2d17d1e3f4474e070353f201164685a95b5a92f5ee0897442504e399c7bc249"
             ],
             "index": "pypi",
-            "version": "==1.46"
+            "version": "==1.51"
         },
         "pyjwt": {
             "hashes": [
